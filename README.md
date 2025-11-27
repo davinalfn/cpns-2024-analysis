@@ -22,6 +22,14 @@ Fase 3: Pengembangan Dasboard di Power BI
 Fase 4: Implementasi Fitur Interaktif
 Fase 5: Pemolesan & Validasi Akhir
 
+
+Key Insigth
+1. Distribusi Formasi
+2. Analisis Kompetisi
+   Instansi dengan kuota terbanyak: Kementerian Agama, BRIN, Kemen PUPR
+
+
+
 Raw Data    : https://drive.google.com/file/d/1762ko6pfbNVSpsSgopYXRHFMCtJIy81x/view?usp=sharing                                                            
 Clean Data  : https://drive.google.com/file/d/1LZpwq7fhQd2lTyaCmA8hMTLF4aZWgVZg/view?usp=sharing
 
