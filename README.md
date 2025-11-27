@@ -9,11 +9,11 @@ Tools: MySQL, DBeaver, Power BI
 
 Business Objectives
 Dashboard ini menjawab pertanyaan tentang rekrutmen CPNS 2024:
-1. Distribusi Geografis - Formasi tersebar di mana saja?
-2. Analisis Kompetisi - Formasi mana yang paling kompetitif?
-3. Prospek Karir & Kompensasi - Posisi dan gaji seperti apa yang ditawarkan?
-4. Persyaratan Pendidikan - Kualifikasi apa yang paling dicari?
-5. Inklusivitas - Seberapa inklusif rekrutmen CPNS 2024
+1. Distribusi Geografis - Formasi tersebar di mana saja?                                                                                                                   
+2. Analisis Kompetisi - Formasi mana yang paling kompetitif?                                                                                   
+3. Prospek Karir & Kompensasi - Posisi dan gaji seperti apa yang ditawarkan?                                                                                           
+4. Persyaratan Pendidikan - Kualifikasi apa yang paling dicari?                                                                                       
+5. Inklusivitas - Seberapa inklusif rekrutmen CPNS 2024                                                                                     
 
 Project Timeline
 Fase 1: Pengaturan Basis Data & Persiapan Data
