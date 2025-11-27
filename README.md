@@ -16,11 +16,11 @@ Dashboard ini menjawab pertanyaan tentang rekrutmen CPNS 2024:
 5. Inklusivitas - Seberapa inklusif rekrutmen CPNS 2024                                                                                     
 
 Project Timeline
-Fase 1: Pengaturan Basis Data & Persiapan Data
-Fase 2: Analisis SQL & Pembersihan Data
-Fase 3: Pengembangan Dasboard di Power BI
-Fase 4: Implementasi Fitur Interaktif
-Fase 5: Pemolesan & Validasi Akhir
+Fase 1: Pengaturan Basis Data & Persiapan Data                                                                                   
+Fase 2: Analisis SQL & Pembersihan Data                                                                                                                    
+Fase 3: Pengembangan Dasboard di Power BI                                                                                                                           
+Fase 4: Implementasi Fitur Interaktif                                                                                                                         
+Fase 5: Pemolesan & Validasi Akhir                                                                                       
 
 
 Key Insigth
