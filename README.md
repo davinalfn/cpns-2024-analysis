@@ -3,9 +3,9 @@ CPNS 2024 Formation Analysis Dashboard
 Project Overview
 Project analisis data komprehensif yang mengubah data mentah formasi CPNS (Calon Pegawai Negeri Sipil) 2024 dari SSCASN menjadi dashboard business intelligence interaktif. Project ini memberikan insights strategis untuk pelamar, instansi pemerintah, dan pembuat kebijakan dalam proses rekrutmen CPNS Indonesia.
 
-Jenis Project: Data Analytics & Business Intelligence
-Industri: Pemerintahan & Sektor Publik
-Tools: MySQL, DBeaver, Power BI
+Jenis Project: Data Analytics & Business Intelligence                                                                                                                          
+Industri: Pemerintahan & Sektor Publik                                                                                                          
+Tools: MySQL, DBeaver, Power BI                                                                                    
 
 Business Objectives
 Dashboard ini menjawab pertanyaan tentang rekrutmen CPNS 2024:
