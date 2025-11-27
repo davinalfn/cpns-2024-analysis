@@ -15,7 +15,7 @@ Dashboard ini menjawab pertanyaan tentang rekrutmen CPNS 2024:
 4. Persyaratan Pendidikan - Kualifikasi apa yang paling dicari?                                                                                       
 5. Inklusivitas - Seberapa inklusif rekrutmen CPNS 2024                                                                                     
 
-Project Timeline
+Project Timeline                                                                                                                                    
 Fase 1: Pengaturan Basis Data & Persiapan Data                                                                                   
 Fase 2: Analisis SQL & Pembersihan Data                                                                                                                    
 Fase 3: Pengembangan Dasboard di Power BI                                                                                                                           
